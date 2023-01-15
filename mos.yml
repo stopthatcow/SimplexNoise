@@ -1,0 +1,9 @@
+name: simplex-noise
+type: lib
+description: Mongoose OS support simplexnoise
+
+sources:
+  - src
+
+# Used by the mos tool to catch mos binaries incompatible with this file format
+manifest_version: 2017-05-18
